@@ -1,0 +1,16 @@
+# Build
+*.o
+*.a
+
+# libs
+/cmake*
+/lua*
+
+# Executables
+.out
+*.exe
+luac
+
+# Editors
+.idea
+.vscode
